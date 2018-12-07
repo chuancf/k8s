@@ -1,2 +1,2 @@
-# k8s
-kubernetes Image
+# k8s-dashboard
+kubernetes  Dashboard Image
